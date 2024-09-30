@@ -5,7 +5,8 @@
     "https://giscus-component.vercel.app",
     "https://neocities.org",
     "https://pillowkisser.neocities.org",
-    "https://pillowkisser.neocities.org/blog/posts/custom_example.css"
+    "https://pillowkisser.neocities.org/blog/posts/custom_example.css",
+    "*"
   ]
   "originsRegex": [
     "https://giscus-git-([A-z0-9]|-)*giscus\\.vercel\\.app",
